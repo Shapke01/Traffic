@@ -29,7 +29,7 @@ On Windows 11 we run scripts with (CMD):
 ```cmd
 type e.txt | python simple.py > solution.txt 
 ```
-( an example for e.txt, sample.py and redirection of stdout to solution.txt)
+(an example for e.txt, sample.py and redirection of stdout to solution.txt)
 
 ## Authors
 Kacper Dobek, Stanisław Hapke
